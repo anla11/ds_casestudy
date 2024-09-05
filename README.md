@@ -11,6 +11,6 @@ the folder [recsys](https://github.com/anla11/ds_casestudy/tree/main/recsys)
 
 ## 2. Prediction for Corona virus epidemic
 
-This [slide](https://docs.google.com/presentation/d/1L408IE2IShjoEZ-6Vvak1Hg0y6YNSpuofATq6b__GnI) shows that using news and public data in the internet can predict when the epidemic will end. Fomular in the analysis of this slide are deomonstrated in [an excel file](https://docs.google.com/spreadsheets/d/1O6-EPNCW4Uxh9tq08C96z4RjKN7dLhQvipXBMZgZeyo/edit?gid=0#gid=0)
+This [slide](https://docs.google.com/presentation/d/1L408IE2IShjoEZ-6Vvak1Hg0y6YNSpuofATq6b__GnI) shows that using news and public data in the internet can predict when the epidemic will end. Fomular in the analysis of this slide are deomonstrated in [an excel file](https://docs.google.com/spreadsheets/d/1O6-EPNCW4Uxh9tq08C96z4RjKN7dLhQvipXBMZgZeyo/edit?gid=0#gid=0). You can download the file and change parameters to see how predictions change.
 
 Slide and demonstration excel file are included in [https://drive.google.com/drive/folders/18cily9dHhFiyXHjK1l713NSHmJ11C2Xs?usp=drive_link](https://drive.google.com/drive/folders/18cily9dHhFiyXHjK1l713NSHmJ11C2Xs?usp=drive_link). A copy of these files are included in the folder [corona](https://github.com/anla11/ds_casestudy/tree/main/corona).
